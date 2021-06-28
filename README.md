@@ -1,9 +1,11 @@
 Project Description
 ........................................
+
 The project aims to achieve load balance among different decentralized nodes within different network scenarios. It is a simulation that tackles the distribution of the computing tasks of IOTA among its nodes. The code is based on JAVA platform composed of 4 main classes and JSON files. The main goal of this simulation is to test the effectiveness of the Weighted Least connection algorithm (WLC) within the decentralized environment of IOTA. Therefore, the tasks that reach nodes randomly will be distributed equally on all the nodes.
 
 Technical Description
 .......................................
+
 The simulation code is composed of several classes and JSON files. It is intended to:
 • Create two types of network to build different scenarios:
      o Create 16 similar nodes using a JSON file that specifies their name and resources (same CPU and memory)
@@ -14,6 +16,7 @@ The simulation code is composed of several classes and JSON files. It is intende
 
 Implementation and test
 .......................................
+
 This project is built using Eclipse IDE 2021. Below are the steps to run the software:
 1-	Install JAVA Eclipse IDE on your machine
 2-	Create a workspace and import the project files
