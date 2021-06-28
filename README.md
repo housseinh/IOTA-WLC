@@ -51,7 +51,7 @@ This project is built using Eclipse IDE 2021. Below are the steps to run the sof
 
 10-	 The generated reports are in CSV format. You can access it using excel or Matlab. Note: the delimiter used is the comma, so ensure your excel is using ‘comma’ before import it.
 
-11-	Finally, you can find  CSV and excel demos of the last updated in the same file
+11-	Finally, you can find  CSV and excel demos of the last run in the same file.
 
  
 
