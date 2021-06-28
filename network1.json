@@ -1,0 +1,74 @@
+{
+	"_commentsForNodes": "cpuPower in MHz and ramCapacity in Bytes",
+	"nodes": [
+		{
+			"id": "node-1",
+			"cpuPower": 1024,
+			"ramCapacity": 8192,
+		},
+		{
+			"id": "node-2",
+			"cpuPower": 2048,
+			"ramCapacity": 8000
+		},
+		{
+			"id": "node-3",
+			"cpuPower": 2800,
+			"ramCapacity": 9000
+		},
+		{
+			"id": "node-4",
+			"cpuPower": 2800,
+			"ramCapacity": 9000
+		},
+		{
+			"id": "node-5",
+			"cpuPower": 7168,
+			"ramCapacity": 16384
+		},
+{
+			"id": "node-6",
+			"cpuPower": 2500,
+			"ramCapacity": 2048
+		},
+		{
+			"id": "node-7",
+			"cpuPower": 2800,
+			"ramCapacity": 11000
+		},
+		{
+			"id": "node-8",
+			"cpuPower": 5168,
+			"ramCapacity": 16384
+		},
+	],
+	"_commentsForNetwork": "in nodes array put the nodes ids",
+	"networks": [
+		{
+			"id": "A",
+			"nodes": [
+				"node-1",
+				"node-6",
+				"node-7",
+				"node-8",
+
+			]
+		},
+		{
+			"id": "B",
+			"nodes": [
+				"node-1",
+				"node-2",
+				"node-3"
+			]
+		},
+		{
+			"id": "C",
+			"nodes": [
+				"node-3",
+				"node-4",
+				"node-5"
+			]
+		}
+	]
+}

@@ -1,0 +1,115 @@
+{
+	"_commentsForNodes": "cpuPower in MHz and ramCapacity in Bytes",
+	"nodes": [
+		{
+			"id": "node-1",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+		{
+			"id": "node-2",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+		{
+			"id": "node-3",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+		{
+			"id": "node-4",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+		{
+			"id": "node-5",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+{
+			"id": "node-6",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+		{
+			"id": "node-7",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+		{
+			"id": "node-8",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+{
+			"id": "node-9",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+		{
+			"id": "node-10",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+		{
+			"id": "node-11",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+		{
+			"id": "node-12",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+		{
+			"id": "node-13",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+{
+			"id": "node-14",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+		{
+			"id": "node-15",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+		{
+			"id": "node-16",
+			"cpuPower": 1024,
+			"ramCapacity": 4096,
+		},
+	],
+	"_commentsForNetwork": "in nodes array put the nodes ids",
+	"networks": [
+		{
+			"id": "A",
+			"nodes": [
+				"node-1",
+				"node-6",
+				"node-7",
+				"node-8",
+                                  "node-9", "node-10",
+
+			]
+		},
+		{
+			"id": "B",
+			"nodes": [
+				"node-1",
+				"node-2",
+				"node-3", "node-11", "node-12", "node-9", "node-10",
+			]
+		},
+		{
+			"id": "C",
+			"nodes": [
+				"node-3",
+				"node-4","node-13", "node-14", "node-15", "node-16",
+				"node-5"
+			]
+		}
+	]
+}
