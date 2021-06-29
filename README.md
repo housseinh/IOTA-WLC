@@ -12,15 +12,15 @@ The simulation code is composed of several classes and JSON files. It is intende
 
 • Create two types of network to build different scenarios:
 
-     o Create 16 similar nodes using a JSON file that specifies their name and resources (same CPU and memory)
+     o Create n similar nodes using a JSON file that specifies their name and resources (same CPU and memory)
      
-     o Create 16 different nodes using a JSON file that specifies their name, different resources, and network.
+     o Create n different nodes using a JSON file that specifies their name, different resources, and network.
      
-• Create multiple networks and regroup the 16 nodes with different resources using another JSON file to represent three network groups that interacted with each other. 
+• Create multiple networks and regroup the n nodes with different resources using another JSON file to represent three network groups that interacted with each other. 
 
-• Test different levels of connection traffic (up to 11k connections).
+• Test different levels of connection traffic.
 
-• Extract CSV output files in order to analyze and draw the results.
+• Extract CSV output files in order to analyze and draw the results (using matlab).
 
 
 
