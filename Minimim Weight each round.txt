@@ -1,0 +1,3346 @@
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014760842403998282
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014781998186109173
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014856936845175658
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015236715029168894
+Min Weight:0.0014691401017598638
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.001487300856551876
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014678966082277067
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014874315806562741
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001477196466520469
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014980831567196903
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014805921845756523
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014805921845756523
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014751932320665408
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014751932320665408
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014844558149671198
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002185608265736854
+Min Weight:0.001541378755093895
+Min Weight:0.0014830913231785796
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002160500149646859
+Min Weight:0.0014660536729746542
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002160500149646859
+Min Weight:0.0014660536729746542
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.001476988078169967
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014800434228682585
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014760842403998282
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014781998186109173
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014856936845175658
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015236715029168894
+Min Weight:0.0014660536729746542
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014841762749204647
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014875787177071453
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014843067243943914
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014740931125992074
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014980831567196903
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014805921845756523
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014751932320665408
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014844558149671198
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002185608265736854
+Min Weight:0.001541378755093895
+Min Weight:0.0014830913231785796
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002160500149646859
+Min Weight:0.0014660536729746542
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.001476988078169967
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014800434228682585
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014760842403998282
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014781998186109173
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014856936845175658
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015236715029168894
+Min Weight:0.0014660536729746542
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014841762749204647
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014875787177071453
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014843067243943914
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014740931125992074
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014934594432730246
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014760224556109125
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014760224556109125
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014706401665354712
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014706401665354712
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014798741612172212
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021788625612129747
+Min Weight:0.001541378755093895
+Min Weight:0.0014799821170503225
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002188366839893662
+Min Weight:0.0014864378535126763
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.001476988078169967
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014800434228682585
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014760842403998282
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014781998186109173
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014856936845175658
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015236715029168894
+Min Weight:0.0014629801851906402
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015236715029168894
+Min Weight:0.0014629801851906402
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.001481064794260254
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.001484460104043189
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014811949702551997
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014710027706440728
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014934594432730246
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014760224556109125
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014706401665354712
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014798741612172212
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021788625612129747
+Min Weight:0.001541378755093895
+Min Weight:0.0014799821170503225
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002188366839893662
+Min Weight:0.0014864378535126763
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.001476988078169967
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014800434228682585
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014760842403998282
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014781998186109173
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014856936845175658
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015236715029168894
+Min Weight:0.0014629801851906402
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.001481064794260254
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.001484460104043189
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014811949702551997
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014710027706440728
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014934594432730246
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014760224556109125
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014760224556109125
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014706401665354712
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014706401665354712
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014798741612172212
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021788625612129747
+Min Weight:0.001538020631444453
+Min Weight:0.0014768859201527277
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002188366839893662
+Min Weight:0.0014833281508902646
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014737702392197058
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014768189273936002
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014728683705950356
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014749793397032683
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014824568791046734
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001544729534042585
+Min Weight:0.0014833281508902646
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014779663323475757
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014813545389719689
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014780962360078037
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014679253589900056
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014679253589900056
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014934594432730246
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014760224556109125
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014706401665354712
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014798741612172212
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021788625612129747
+Min Weight:0.001538020631444453
+Min Weight:0.0014768859201527277
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002188366839893662
+Min Weight:0.0014833281508902646
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014737702392197058
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014768189273936002
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014728683705950356
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014749793397032683
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014824568791046734
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001544729534042585
+Min Weight:0.0014833281508902646
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014779663323475757
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014813545389719689
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014780962360078037
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014679253589900056
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014934594432730246
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014760224556109125
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014760224556109125
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014706401665354712
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014706401665354712
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014798741612172212
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021788625612129747
+Min Weight:0.001538020631444453
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002188366839893662
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014737702392197058
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014768189273936002
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014728683705950356
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014749793397032683
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014824568791046734
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001544729534042585
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014934594432730246
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014760224556109125
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014706401665354712
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014798741612172212
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021788625612129747
+Min Weight:0.001538020631444453
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002188366839893662
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014737702392197058
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014768189273936002
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014728683705950356
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014749793397032683
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014824568791046734
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001544729534042585
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.001488864183447569
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014714808480551867
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014714808480551867
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014977489190353785
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014753207022596298
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002172158368716935
+Min Weight:0.001538020631444453
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.00218163340346322
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014737702392197058
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014768189273936002
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014728683705950356
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014749793397032683
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014824568791046734
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001544729534042585
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.001488864183447569
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014714808480551867
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014977489190353785
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014753207022596298
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002172158368716935
+Min Weight:0.001538020631444453
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.00218163340346322
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014737702392197058
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014768189273936002
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014728683705950356
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014749793397032683
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014824568791046734
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001544729534042585
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014842971154001839
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014987376355364743
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014931545971978465
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014707951786330662
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014707951786330662
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002165495306236208
+Min Weight:0.001538020631444453
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021749412764587315
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014737702392197058
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014768189273936002
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014728683705950356
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014749793397032683
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014824568791046734
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001544729534042585
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014842971154001839
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014987376355364743
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014931545971978465
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014707951786330662
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002165495306236208
+Min Weight:0.001538020631444453
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021749412764587315
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014737702392197058
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014768189273936002
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014728683705950356
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014749793397032683
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014824568791046734
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001544729534042585
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014797579804907033
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014941543400149562
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014885883751880671
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014981380284503545
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.001538020631444453
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.001538020631444453
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021682900798946376
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014737702392197058
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014737702392197058
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014768189273936002
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014728683705950356
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014728683705950356
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014749793397032683
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014824568791046734
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001544729534042585
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014797579804907033
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014941543400149562
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014885883751880671
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014981380284503545
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.001538020631444453
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021682900798946376
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014737702392197058
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014768189273936002
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014728683705950356
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014749793397032683
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014824568791046734
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001544729534042585
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014797579804907033
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014941543400149562
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014885883751880671
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014981380284503545
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.001534677108332617
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.001534677108332617
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021682900798946376
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014705663908735759
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014705663908735759
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014736084514644836
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014964154664796148
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014717728628778261
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014792341467587938
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015413714263598837
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014797579804907033
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014941543400149562
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014885883751880671
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014981380284503545
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.001534677108332617
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021682900798946376
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014705663908735759
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014736084514644836
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014964154664796148
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014717728628778261
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014792341467587938
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015413714263598837
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014797579804907033
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014941543400149562
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014885883751880671
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014981380284503545
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.0015313480907440432
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.0015313480907440432
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021682900798946376
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014901725278528084
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.001470411903847424
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.001470411903847424
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001493169445944952
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014685802970147508
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014685802970147508
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014760253958981456
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015380278874740705
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014797579804907033
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014941543400149562
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014885883751880671
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014981380284503545
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.0015313480907440432
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021682900798946376
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014901725278528084
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.001470411903847424
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001493169445944952
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014685802970147508
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014760253958981456
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015380278874740705
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014797579804907033
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014941543400149562
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014885883751880671
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014981380284503545
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.0015280334844870213
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.0015280334844870213
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021682900798946376
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014869470461907894
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014672291940988364
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014672291940988364
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014899374774472354
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014881859245324627
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014728305357338638
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015346988227825683
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014797579804907033
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014941543400149562
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014885883751880671
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014981380284503545
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.0015280334844870213
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021682900798946376
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014869470461907894
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014672291940988364
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014899374774472354
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014881859245324627
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014728305357338638
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015346988227825683
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014797579804907033
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014941543400149562
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014885883751880671
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014981380284503545
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.0015247331961835936
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.0015247331961835936
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021682900798946376
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.001483735497494913
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014890948977379565
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014867194699365502
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014849717000734292
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014696494762614365
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014696494762614365
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015313841385001005
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014797579804907033
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014941543400149562
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014885883751880671
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014981380284503545
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.0015247331961835936
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021682900798946376
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.001483735497494913
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014890948977379565
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014867194699365502
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014849717000734292
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014696494762614365
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015313841385001005
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014797579804907033
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014941543400149562
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014885883751880671
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014981380284503545
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.0015214471332607841
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.0015214471332607841
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021682900798946376
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014805377916813464
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014858856414928317
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001483515333147894
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014817713300301677
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014887164053628817
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001528083741649885
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014797579804907033
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014941543400149562
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014885883751880671
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014981380284503545
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021588729964312045
+Min Weight:0.0015214471332607841
+Min Weight:0.0014738026510083587
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021682900798946376
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014805377916813464
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014858856414928317
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001483515333147894
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014817713300301677
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014887164053628817
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001528083741649885
+Min Weight:0.0014802314324124145
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014748808076453887
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014782619407695222
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014750104401079964
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486454965615678
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014752465232331098
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014895989914173497
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014840499959954206
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014935705344611765
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002184215500161785
+Min Weight:0.001540693944200141
+Min Weight:0.0014925472584438864
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002161679439407154
+Min Weight:0.0014771476169282219
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014773538394411716
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.001482690188500374
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001480324977592737
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014785847250193501
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014855148647061874
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015247975400549387
+Min Weight:0.0014771476169282219
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014718081392961274
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014718081392961274
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014751822283929192
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014719375016911049
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014833581844373122
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014752465232331098
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014895989914173497
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014840499959954206
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014935705344611765
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002184215500161785
+Min Weight:0.001540693944200141
+Min Weight:0.0014925472584438864
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002161679439407154
+Min Weight:0.0014771476169282219
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014773538394411716
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.001482690188500374
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001480324977592737
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014785847250193501
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014855148647061874
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015247975400549387
+Min Weight:0.0014771476169282219
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014718081392961274
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014751822283929192
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014719375016911049
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014833581844373122
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014752465232331098
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014895989914173497
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014840499959954206
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014935705344611765
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002184215500161785
+Min Weight:0.001540693944200141
+Min Weight:0.0014894442495905725
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002161679439407154
+Min Weight:0.0014740766239616353
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002161679439407154
+Min Weight:0.0014740766239616353
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014773538394411716
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.001482690188500374
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001480324977592737
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014785847250193501
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014855148647061874
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015247975400549387
+Min Weight:0.0014740766239616353
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014899270324668353
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014721153214731833
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014721153214731833
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014688773405649278
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014688773405649278
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014802742796879622
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014752465232331098
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014895989914173497
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014840499959954206
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014935705344611765
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002184215500161785
+Min Weight:0.001540693944200141
+Min Weight:0.0014894442495905725
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002161679439407154
+Min Weight:0.0014740766239616353
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014773538394411716
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.001482690188500374
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001480324977592737
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014785847250193501
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014855148647061874
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015247975400549387
+Min Weight:0.0014740766239616353
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014899270324668353
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014721153214731833
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014688773405649278
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014802742796879622
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014752465232331098
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014895989914173497
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014840499959954206
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014935705344611765
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002184215500161785
+Min Weight:0.001540693944200141
+Min Weight:0.001486354116292667
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002161679439407154
+Min Weight:0.0014710183737044534
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002161679439407154
+Min Weight:0.0014710183737044534
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014773538394411716
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.001482690188500374
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001480324977592737
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014785847250193501
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014855148647061874
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015247975400549387
+Min Weight:0.0014710183737044534
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014868358975447047
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014690611403083012
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014690611403083012
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.00148824007025574
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014772031712238793
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014752465232331098
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014895989914173497
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014840499959954206
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014935705344611765
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002184215500161785
+Min Weight:0.001540693944200141
+Min Weight:0.001486354116292667
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002161679439407154
+Min Weight:0.0014710183737044534
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014773538394411716
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.001482690188500374
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001480324977592737
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014785847250193501
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014855148647061874
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015247975400549387
+Min Weight:0.0014710183737044534
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014868358975447047
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014690611403083012
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.00148824007025574
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014772031712238793
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014752465232331098
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014895989914173497
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014840499959954206
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014935705344611765
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002184215500161785
+Min Weight:0.001540693944200141
+Min Weight:0.0014832767785777753
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002161679439407154
+Min Weight:0.001467972787009413
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002161679439407154
+Min Weight:0.001467972787009413
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014773538394411716
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.001482690188500374
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001480324977592737
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014785847250193501
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014855148647061874
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015247975400549387
+Min Weight:0.001467972787009413
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014837575623531008
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014884828638410301
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014851588278742584
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014741447795650305
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014752465232331098
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014895989914173497
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014840499959954206
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014935705344611765
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002184215500161785
+Min Weight:0.001540693944200141
+Min Weight:0.0014832767785777753
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002161679439407154
+Min Weight:0.001467972787009413
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014773538394411716
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.001482690188500374
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001480324977592737
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014785847250193501
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014855148647061874
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015247975400549387
+Min Weight:0.001467972787009413
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014837575623531008
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014884828638410301
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014851588278742584
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014741447795650305
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014707624912475986
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014850713349084822
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014795392057340363
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014890308063929055
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021775765472737555
+Min Weight:0.001540693944200141
+Min Weight:0.0014802121571344327
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.00218917823269365
+Min Weight:0.0014880984267690305
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014773538394411716
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.001482690188500374
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001480324977592737
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014785847250193501
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014855148647061874
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015247975400549387
+Min Weight:0.0014649397853833605
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015247975400549387
+Min Weight:0.0014649397853833605
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014806919475548507
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014854074860231768
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014820903178993114
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014710990258882434
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014707624912475986
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014850713349084822
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014795392057340363
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014890308063929055
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021775765472737555
+Min Weight:0.001540693944200141
+Min Weight:0.0014802121571344327
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.00218917823269365
+Min Weight:0.0014880984267690305
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014773538394411716
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.001482690188500374
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.001480324977592737
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014785847250193501
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014855148647061874
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015247975400549387
+Min Weight:0.0014649397853833605
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014806919475548507
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014854074860231768
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014820903178993114
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014710990258882434
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014707624912475986
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014850713349084822
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014795392057340363
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014890308063929055
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021775765472737555
+Min Weight:0.0015373877340194536
+Min Weight:0.0014771601733052895
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.00218917823269365
+Min Weight:0.0014850301825901253
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014741835522320702
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014795084498984419
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014771483145506927
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.001475411796424888
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.001482327064567333
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015455786235111818
+Min Weight:0.0014850301825901253
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014776389744671087
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014823447901757061
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.001479034461573746
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014680658320204325
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014680658320204325
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014707624912475986
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014850713349084822
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014795392057340363
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014890308063929055
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021775765472737555
+Min Weight:0.0015373877340194536
+Min Weight:0.0014771601733052895
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.00218917823269365
+Min Weight:0.0014850301825901253
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014741835522320702
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014795084498984419
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014771483145506927
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.001475411796424888
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.001482327064567333
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015455786235111818
+Min Weight:0.0014850301825901253
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014776389744671087
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014823447901757061
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.001479034461573746
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014680658320204325
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014707624912475986
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014850713349084822
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014795392057340363
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014890308063929055
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021775765472737555
+Min Weight:0.0015373877340194536
+Min Weight:0.0014741207490803817
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.00218917823269365
+Min Weight:0.0014819745649304748
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014741835522320702
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014795084498984419
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014771483145506927
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.001475411796424888
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.001482327064567333
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015455786235111818
+Min Weight:0.0014819745649304748
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014745985650546248
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.001479294698014851
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014759911807886148
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486338699585648
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014707624912475986
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014850713349084822
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014795392057340363
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014890308063929055
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021775765472737555
+Min Weight:0.0015373877340194536
+Min Weight:0.0014741207490803817
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.00218917823269365
+Min Weight:0.0014819745649304748
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014741835522320702
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014795084498984419
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014771483145506927
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.001475411796424888
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.001482327064567333
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015455786235111818
+Min Weight:0.0014819745649304748
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014745985650546248
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.001479294698014851
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014759911807886148
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486338699585648
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014984452167550759
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.001480571118742093
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.001480571118742093
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014750557535954485
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014750557535954485
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014845185918280785
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021709778304638346
+Min Weight:0.0015373877340194536
+Min Weight:0.0014741207490803817
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021709778304638346
+Min Weight:0.0015373877340194536
+Min Weight:0.0014741207490803817
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021825443592612447
+Min Weight:0.0014819745649304748
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014741835522320702
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014795084498984419
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014771483145506927
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.001475411796424888
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.001482327064567333
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015455786235111818
+Min Weight:0.0014819745649304748
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014745985650546248
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.001479294698014851
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014759911807886148
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486338699585648
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014984452167550759
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.001480571118742093
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014750557535954485
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014845185918280785
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021709778304638346
+Min Weight:0.0015373877340194536
+Min Weight:0.0014741207490803817
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021825443592612447
+Min Weight:0.0014819745649304748
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014741835522320702
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014795084498984419
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014771483145506927
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.001475411796424888
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.001482327064567333
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015455786235111818
+Min Weight:0.0014819745649304748
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014745985650546248
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.001479294698014851
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014759911807886148
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001486338699585648
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014939181919310424
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.001476098094214171
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.001476098094214171
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014705993918021087
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014705993918021087
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014800336413995949
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021960752858732487
+Min Weight:0.0015565330184669063
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002175950569656226
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014710268422701172
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014763403375860256
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014739852560612908
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014722524563897169
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.001479152916677467
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015422690333109438
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014939181919310424
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.001476098094214171
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.0014705993918021087
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014800336413995949
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.0021960752858732487
+Min Weight:0.0015565330184669063
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.002175950569656226
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014710268422701172
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014763403375860256
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014739852560612908
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014722524563897169
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.001479152916677467
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015422690333109438
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.0015565330184669063
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014710268422701172
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014710268422701172
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014763403375860256
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014739852560612908
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014722524563897169
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.001479152916677467
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015422690333109438
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.0015565330184669063
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014710268422701172
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014763403375860256
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014739852560612908
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014722524563897169
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.001479152916677467
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015422690333109438
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.001553207093213772
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014903557247990407
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014731857642151151
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014708357149158607
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014708357149158607
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014691066178076876
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014691066178076876
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014759923335221734
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015389735866585702
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.001553207093213772
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014903557247990407
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014731857642151151
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014708357149158607
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014691066178076876
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014759923335221734
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015389735866585702
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.0015498953510107575
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014871779940425398
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014700446431826736
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014700446431826736
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014676996046495156
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014676996046495156
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014884360500132944
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014728452283334268
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001535692193083605
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.0015498953510107575
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014871779940425398
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014700446431826736
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014676996046495156
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014884360500132944
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014728452283334268
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001535692193083605
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.0015465977013277559
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.001484013785544577
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014669168886227105
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014669168886227105
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014908499638102827
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014852691648005003
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014697115150816536
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001532424762885555
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.0015465977013277559
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.001484013785544577
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014669168886227105
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014908499638102827
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014852691648005003
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014697115150816536
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.001532424762885555
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.0015433140544034933
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014808630131761171
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014884713570520324
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014876846772629148
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014821157270833018
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014665911084678922
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014665911084678922
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015291712071257128
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.0015433140544034933
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014808630131761171
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014884713570520324
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014876846772629148
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014821157270833018
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014665911084678922
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015291712071257128
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.001540044321237384
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014777255915380321
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014853178160413288
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014845328029466798
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014789756513903286
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014853515278132074
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015259314376190908
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.001540044321237384
+Min Weight:0.0014926096912198056
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014777255915380321
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014853178160413288
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014845328029466798
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014789756513903286
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014853515278132074
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015259314376190908
+Min Weight:0.0014789314960086464
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014715706419230958
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014762571318998306
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014729603980765233
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014832866694016937
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.001540044321237384
+Min Weight:0.0014895510648033716
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014759008986807598
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014777255915380321
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014853178160413288
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014845328029466798
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014789756513903286
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014853515278132074
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015259314376190908
+Min Weight:0.0014759008986807598
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014894356319862026
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014732320148262655
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014699420366050548
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014699420366050548
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014802471475381656
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.001540044321237384
+Min Weight:0.0014895510648033716
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014759008986807598
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014777255915380321
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014853178160413288
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014845328029466798
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014789756513903286
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014853515278132074
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015259314376190908
+Min Weight:0.0014759008986807598
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.0014894356319862026
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014732320148262655
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014699420366050548
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014802471475381656
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.001540044321237384
+Min Weight:0.0014865049481064322
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014728826964339689
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014777255915380321
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014853178160413288
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014845328029466798
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014789756513903286
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014853515278132074
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015259314376190908
+Min Weight:0.0014728826964339689
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.001486389751348194
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014702192704196678
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014702192704196678
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014890507894208954
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014772200572569015
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.001540044321237384
+Min Weight:0.0014865049481064322
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.0014728826964339689
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014777255915380321
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014853178160413288
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014845328029466798
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014789756513903286
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014853515278132074
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015259314376190908
+Min Weight:0.0014728826964339689
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.001486389751348194
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014702192704196678
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014890507894208954
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.0014772200572569015
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.001540044321237384
+Min Weight:0.001483471264538868
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.001469876813380022
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.001469876813380022
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014777255915380321
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014853178160413288
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014845328029466798
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014789756513903286
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014853515278132074
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015259314376190908
+Min Weight:0.001469876813380022
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.001483356302876055
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014893881097182572
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014860119102588119
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001474205322446173
+
+***Getting Wlc for Node:node-1**
+Min Weight:0.0014894184383408887
+
+***Getting Wlc for Node:node-2**
+Min Weight:0.0014716520156171406
+
+***Getting Wlc for Node:node-3**
+Min Weight:0.001497154896460366
+
+***Getting Wlc for Node:node-4**
+Min Weight:0.0014755757087447769
+
+***Getting Wlc for Node:node-5**
+Min Weight:0.002189460601277245
+Min Weight:0.001540044321237384
+Min Weight:0.001483471264538868
+
+***Getting Wlc for Node:node-6**
+Min Weight:0.0021693965016753337
+Min Weight:0.001469876813380022
+
+***Getting Wlc for Node:node-7**
+Min Weight:0.0014777255915380321
+
+***Getting Wlc for Node:node-8**
+Min Weight:0.0014853178160413288
+
+***Getting Wlc for Node:node-9**
+Min Weight:0.0014845328029466798
+
+***Getting Wlc for Node:node-10**
+Min Weight:0.0014789756513903286
+
+***Getting Wlc for Node:node-11**
+Min Weight:0.0014853515278132074
+
+***Getting Wlc for Node:node-12**
+Min Weight:0.0015259314376190908
+Min Weight:0.001469876813380022
+
+***Getting Wlc for Node:node-13**
+Min Weight:0.001483356302876055
+
+***Getting Wlc for Node:node-14**
+Min Weight:0.0014893881097182572
+
+***Getting Wlc for Node:node-15**
+Min Weight:0.0014860119102588119
+
+***Getting Wlc for Node:node-16**
+Min Weight:0.001474205322446173
+Done!
